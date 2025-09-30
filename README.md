@@ -20,7 +20,7 @@ Before running the project, make sure you have the following installed:
 
 ### 📦 Project Setup
 
-1.  Extract the ZIP file:
+1.  Clone the repository: git clone https://github.com/iamshivam0003/grocitoAssignmentShivam.git
 2.  run npm install
 3.  Start Metro bundler (in a new terminal window):  npx react-native start
 4.  Run the app on Android (emulator or physical device): npx react-native run-android
